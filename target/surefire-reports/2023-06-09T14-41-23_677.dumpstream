@@ -1,0 +1,5 @@
+# Created at 2023-06-09T14:41:25.198
+Boot Manifest-JAR contains absolute paths in classpath 'D:\LEARN\JAVA\tool_suite_workspace\taco-cloud\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
